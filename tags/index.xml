@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 鴻運洗衣</title>
-    <link>hongyun-laundry.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on 鴻運洗衣</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="hongyun-laundry.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>diy</title>
-      <link>hongyun-laundry.github.io/tags/diy/</link>
+      <link>/tags/diy/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>hongyun-laundry.github.io/tags/diy/</guid>
+      <guid>/tags/diy/</guid>
       <description></description>
     </item>
     <item>
       <title>online-shoping</title>
-      <link>hongyun-laundry.github.io/tags/online-shoping/</link>
+      <link>/tags/online-shoping/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>hongyun-laundry.github.io/tags/online-shoping/</guid>
+      <guid>/tags/online-shoping/</guid>
       <description></description>
     </item>
     <item>
       <title>bag</title>
-      <link>hongyun-laundry.github.io/tags/bag/</link>
+      <link>/tags/bag/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>hongyun-laundry.github.io/tags/bag/</guid>
+      <guid>/tags/bag/</guid>
       <description></description>
     </item>
     <item>
       <title>收納袋</title>
-      <link>hongyun-laundry.github.io/tags/%E6%94%B6%E7%B4%8D%E8%A2%8B/</link>
+      <link>/tags/%E6%94%B6%E7%B4%8D%E8%A2%8B/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>hongyun-laundry.github.io/tags/%E6%94%B6%E7%B4%8D%E8%A2%8B/</guid>
+      <guid>/tags/%E6%94%B6%E7%B4%8D%E8%A2%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>屏東</title>
-      <link>hongyun-laundry.github.io/tags/%E5%B1%8F%E6%9D%B1/</link>
+      <link>/tags/%E5%B1%8F%E6%9D%B1/</link>
       <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>hongyun-laundry.github.io/tags/%E5%B1%8F%E6%9D%B1/</guid>
+      <guid>/tags/%E5%B1%8F%E6%9D%B1/</guid>
       <description></description>
     </item>
     <item>
       <title>自由行</title>
-      <link>hongyun-laundry.github.io/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
+      <link>/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
       <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>hongyun-laundry.github.io/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
+      <guid>/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
       <description></description>
     </item>
     <item>
       <title>高雄</title>
-      <link>hongyun-laundry.github.io/tags/%E9%AB%98%E9%9B%84/</link>
+      <link>/tags/%E9%AB%98%E9%9B%84/</link>
       <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>hongyun-laundry.github.io/tags/%E9%AB%98%E9%9B%84/</guid>
+      <guid>/tags/%E9%AB%98%E9%9B%84/</guid>
       <description></description>
     </item>
   </channel>

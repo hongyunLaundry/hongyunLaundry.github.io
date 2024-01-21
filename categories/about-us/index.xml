@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about-us on 鴻運洗衣</title>
+    <link>hongyun-laundry.github.io/categories/about-us/</link>
+    <description>Recent content in about-us on 鴻運洗衣</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="hongyun-laundry.github.io/categories/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>關於我們</title>
+      <link>hongyun-laundry.github.io/posts/intro/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>hongyun-laundry.github.io/posts/intro/</guid>
+      <description>鴻運洗衣店經營超過20年囉&#xA;提供的服務項目除了洗衣業務以外，還包括修改衣服以及換拉鍊的服務&#xA;歡迎留言洽詢</description>
+    </item>
+  </channel>
+</rss>

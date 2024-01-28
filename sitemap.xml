@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/menus/</loc>
+    <lastmod>2024-01-28T15:07:12+08:00</lastmod>
+  </url><url>
+    <loc>/menus/contact-us/</loc>
+    <lastmod>2024-01-28T15:07:12+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-01-28T15:07:12+08:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,9 +32,6 @@
     <loc>/posts/online-shopping-cloth-diy/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/bag/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,10 +47,10 @@
     <loc>/categories/travel/</loc>
     <lastmod>2021-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/%E5%B1%8F%E6%9D%B1/</loc>
+    <loc>/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
     <lastmod>2021-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
+    <loc>/tags/%E5%B1%8F%E6%9D%B1/</loc>
     <lastmod>2021-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/kaohsiung-pingtung-play/</loc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menuses on 鴻運洗衣</title>
+    <link>/menus/</link>
+    <description>Recent content in Menuses on 鴻運洗衣</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>hongyun.laundry@gmail.com     (鴻運洗衣)</managingEditor>
+    <webMaster>hongyun.laundry@gmail.com     (鴻運洗衣)</webMaster>
+    <lastBuildDate>Sun, 28 Jan 2024 15:07:12 +0800</lastBuildDate>
+    <atom:link href="/menus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>聯絡我們</title>
+      <link>/menus/contact-us/</link>
+      <pubDate>Sun, 28 Jan 2024 15:07:12 +0800</pubDate><author>hongyun.laundry@gmail.com     (鴻運洗衣)</author>
+      <guid>/menus/contact-us/</guid>
+      <description>營業時間: 平日早上八點到晚上九點&#xA;疫情期間營業時間可能有所不同，請多加利用此表單&#xA;營業地點:桃園市中壢區興仁里興仁路二段110號1樓&#xA;聯絡電話:&#xA;03-4555-952 0966-498-575 聯絡信箱:hongyun.laundry@gmail.com</description>
+    </item>
+  </channel>
+</rss>

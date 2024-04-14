@@ -2,27 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Menuses on 鴻運洗衣</title>
-    <link>/menus/</link>
+    <link>//localhost:1313/menus/</link>
     <description>Recent content in Menuses on 鴻運洗衣</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>hongyun.laundry@gmail.com (鴻運洗衣)</managingEditor>
     <webMaster>hongyun.laundry@gmail.com (鴻運洗衣)</webMaster>
     <lastBuildDate>Sun, 28 Jan 2024 15:22:39 +0800</lastBuildDate>
-    <atom:link href="/menus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/menus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>鴻運洗衣價目表-修改衣服,換拉鍊,洗衣服</title>
-      <link>/menus/pricing/</link>
+      <link>//localhost:1313/menus/pricing/</link>
       <pubDate>Sun, 28 Jan 2024 15:22:39 +0800</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>/menus/pricing/</guid>
+      <guid>//localhost:1313/menus/pricing/</guid>
       <description> </description>
     </item>
     <item>
       <title>聯絡我們</title>
-      <link>/menus/contact-us/</link>
+      <link>//localhost:1313/menus/contact-us/</link>
       <pubDate>Sun, 28 Jan 2024 15:07:12 +0800</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>/menus/contact-us/</guid>
+      <guid>//localhost:1313/menus/contact-us/</guid>
       <description>營業時間: 平日早上八點到晚上九點&#xA;疫情期間營業時間可能有所不同，請多加利用此表單&#xA;營業地點:桃園市中壢區興仁里興仁路二段110號1樓&#xA;聯絡電話:&#xA;03-4555-952 0966-498-575 聯絡信箱:hongyun.laundry@gmail.com</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/menus/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>//localhost:1313/menus/privacy-policy/</guid>
+      <description>Privacy Policy Last updated: April 14, 2024&#xA;Introduction Hong Yun Laundry (&amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, or &amp;ldquo;our&amp;rdquo;) operates the website https://hongyunlaundry.github.io/ and the Facebook page at https://www.facebook.com/people/%E9%B4%BB%E9%81%8B%E6%B4%97%E8%A1%A3%E5%BA%97/100077401785064/ (collectively, the &amp;ldquo;Service&amp;rdquo;). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.&#xA;Information Collection and Use We collect several different types of information for various purposes to provide and improve our Service to you.</description>
     </item>
   </channel>
 </rss>

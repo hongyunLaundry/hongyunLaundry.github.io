@@ -8,8 +8,15 @@
     <language>zh-tw</language>
     <managingEditor>hongyun.laundry@gmail.com (鴻運洗衣)</managingEditor>
     <webMaster>hongyun.laundry@gmail.com (鴻運洗衣)</webMaster>
-    <lastBuildDate>Sun, 28 Jan 2024 15:22:39 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 13:29:48 +0800</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>//localhost:1313/menus/privacy-policy/</link>
+      <pubDate>Sun, 14 Apr 2024 13:29:48 +0800</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>//localhost:1313/menus/privacy-policy/</guid>
+      <description>Information Collection and Use We collect several different types of information for various purposes to provide and improve our Service to you.&#xA;Types of Data Collected Personal Data While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (&amp;ldquo;Personal Data&amp;rdquo;). Personally identifiable information may include, but is not limited to:&#xA;Email address First name and last name Phone number Address, State, Province, ZIP/Postal code, City Use of Data Hong Yun Laundry uses the collected data for various purposes:</description>
+    </item>
     <item>
       <title>鴻運洗衣價目表-修改衣服,換拉鍊,洗衣服</title>
       <link>//localhost:1313/menus/pricing/</link>
@@ -51,13 +58,6 @@
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
       <guid>//localhost:1313/posts/intro/</guid>
       <description>鴻運洗衣店經營超過20年囉&#xA;提供的服務項目除了洗衣業務以外，還包括修改衣服以及換拉鍊的服務&#xA;歡迎留言洽詢</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/menus/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>//localhost:1313/menus/privacy-policy/</guid>
-      <description>Privacy Policy Last updated: April 14, 2024&#xA;Introduction Hong Yun Laundry (&amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, or &amp;ldquo;our&amp;rdquo;) operates the website https://hongyunlaundry.github.io/ and the Facebook page at https://www.facebook.com/people/%E9%B4%BB%E9%81%8B%E6%B4%97%E8%A1%A3%E5%BA%97/100077401785064/ (collectively, the &amp;ldquo;Service&amp;rdquo;). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.&#xA;Information Collection and Use We collect several different types of information for various purposes to provide and improve our Service to you.</description>
     </item>
   </channel>
 </rss>

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 鴻運洗衣</title>
-    <link>//localhost:1313/tags/</link>
+    <link>https://hongyunlaundry.github.io/tags/</link>
     <description>Recent content in Tags on 鴻運洗衣</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
     <managingEditor>hongyun.laundry@gmail.com (鴻運洗衣)</managingEditor>
     <webMaster>hongyun.laundry@gmail.com (鴻運洗衣)</webMaster>
     <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hongyunlaundry.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diy</title>
-      <link>//localhost:1313/tags/diy/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>//localhost:1313/tags/diy/</guid>
+      <link>https://hongyunlaundry.github.io/tags/diy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>https://hongyunlaundry.github.io/tags/diy/</guid>
       <description></description>
     </item>
     <item>
       <title>Online-Shoping</title>
-      <link>//localhost:1313/tags/online-shoping/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>//localhost:1313/tags/online-shoping/</guid>
+      <link>https://hongyunlaundry.github.io/tags/online-shoping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>https://hongyunlaundry.github.io/tags/online-shoping/</guid>
       <description></description>
     </item>
     <item>
       <title>Bag</title>
-      <link>//localhost:1313/tags/bag/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>//localhost:1313/tags/bag/</guid>
+      <link>https://hongyunlaundry.github.io/tags/bag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>https://hongyunlaundry.github.io/tags/bag/</guid>
       <description></description>
     </item>
     <item>
       <title>收納袋</title>
-      <link>//localhost:1313/tags/%E6%94%B6%E7%B4%8D%E8%A2%8B/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>//localhost:1313/tags/%E6%94%B6%E7%B4%8D%E8%A2%8B/</guid>
+      <link>https://hongyunlaundry.github.io/tags/%E6%94%B6%E7%B4%8D%E8%A2%8B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>https://hongyunlaundry.github.io/tags/%E6%94%B6%E7%B4%8D%E8%A2%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>自由行</title>
-      <link>//localhost:1313/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
-      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>//localhost:1313/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
+      <link>https://hongyunlaundry.github.io/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>https://hongyunlaundry.github.io/tags/%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
       <description></description>
     </item>
     <item>
       <title>屏東</title>
-      <link>//localhost:1313/tags/%E5%B1%8F%E6%9D%B1/</link>
-      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>//localhost:1313/tags/%E5%B1%8F%E6%9D%B1/</guid>
+      <link>https://hongyunlaundry.github.io/tags/%E5%B1%8F%E6%9D%B1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>https://hongyunlaundry.github.io/tags/%E5%B1%8F%E6%9D%B1/</guid>
       <description></description>
     </item>
     <item>
       <title>高雄</title>
-      <link>//localhost:1313/tags/%E9%AB%98%E9%9B%84/</link>
-      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>//localhost:1313/tags/%E9%AB%98%E9%9B%84/</guid>
+      <link>https://hongyunlaundry.github.io/tags/%E9%AB%98%E9%9B%84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>https://hongyunlaundry.github.io/tags/%E9%AB%98%E9%9B%84/</guid>
       <description></description>
     </item>
   </channel>

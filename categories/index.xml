@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 鴻運洗衣</title>
-    <link>//localhost:1313/categories/</link>
+    <link>https://hongyunlaundry.github.io/categories/</link>
     <description>Recent content in Categories on 鴻運洗衣</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
     <managingEditor>hongyun.laundry@gmail.com (鴻運洗衣)</managingEditor>
     <webMaster>hongyun.laundry@gmail.com (鴻運洗衣)</webMaster>
     <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hongyunlaundry.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloth</title>
-      <link>//localhost:1313/categories/cloth/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>//localhost:1313/categories/cloth/</guid>
+      <link>https://hongyunlaundry.github.io/categories/cloth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>https://hongyunlaundry.github.io/categories/cloth/</guid>
       <description></description>
     </item>
     <item>
       <title>Bag</title>
-      <link>//localhost:1313/categories/bag/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>//localhost:1313/categories/bag/</guid>
+      <link>https://hongyunlaundry.github.io/categories/bag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>https://hongyunlaundry.github.io/categories/bag/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>//localhost:1313/categories/travel/</link>
-      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>//localhost:1313/categories/travel/</guid>
+      <link>https://hongyunlaundry.github.io/categories/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>https://hongyunlaundry.github.io/categories/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>About-Us</title>
-      <link>//localhost:1313/categories/about-us/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
-      <guid>//localhost:1313/categories/about-us/</guid>
+      <link>https://hongyunlaundry.github.io/categories/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hongyun.laundry@gmail.com (鴻運洗衣)</author>
+      <guid>https://hongyunlaundry.github.io/categories/about-us/</guid>
       <description></description>
     </item>
   </channel>
